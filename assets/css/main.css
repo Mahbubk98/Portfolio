@@ -3869,10 +3869,10 @@ input, select, textarea {
 				-ms-transition: -ms-transform 0.5s ease;
 				transition: transform 0.5s ease;
 				padding-bottom: 1px;
-				padding-top: 44px !important;
+			/*	padding-top: 44px !important; */
 			}
 
-			#titleBar {
+		/*	#titleBar {
 				-moz-backface-visibility: hidden;
 				-webkit-backface-visibility: hidden;
 				-ms-backface-visibility: hidden;
@@ -3943,7 +3943,7 @@ input, select, textarea {
 						text-align: center;
 						top: 0;
 						width: 54px;
-					}
+					} */
 
 			#navPanel {
 				-moz-backface-visibility: hidden;
